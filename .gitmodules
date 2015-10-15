@@ -1,0 +1,3 @@
+[submodule "JSON.sortify"]
+	path = JSON.sortify
+	url = git@github.com:ThomasR/JSON.sortify.git
